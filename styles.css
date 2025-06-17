@@ -24,4 +24,17 @@
     .x1dr59a3 {
         padding-left: 0!important;
     }
+    .x1xzczws {
+        /* Firefox */
+        scrollbar-width: none!important;
+
+        /* IE and Edge */
+        -ms-overflow-style: none!important;
+    }
+    .x1xzczws::-webkit-scrollbar {
+        display: none!important;
+    }
+    div.x1qjc9v5.x9f619.x78zum5.xdl72j9.xdt5ytf.x2lah0s.x2lwn1j.xeuugli.x1n2onr6.x1ja2u2z.xuna32c {
+        padding-left: 0!important;
+    }
 }
